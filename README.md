@@ -32,31 +32,31 @@ The project is still under development, which means that it may have some shortc
 
 ### SCREENS FROM THE APP
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/72513ea7-7cb9-435c-b357-5600416b61fd)
+![image](assets/Login.png)
 
 #### USER PANEL
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/c88bfeb8-93d2-46ff-a089-a3cd30872446)
+![image](assets/user_panel_1.png)
 
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/4ef341b2-9f55-4464-a1c1-5e137fcbde6d)
+![image](assets/user_panel_2.png)
 
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/e95ef470-5fb4-4a4c-8367-7ee6bbe097ec)
+![image](assets/user_panel_3.png)
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/a6f7a63b-6e05-4040-80ea-ed2419312762)
+![image](assets/user_panel_4.png)
 
 #### ADMIN PANEL
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/feeec16e-b13a-4f19-9ab8-15676f4a8225)
+![image](assets/admin_panel_1.png)
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/701c1549-32ee-47e5-93b7-d53699e0e4e8)
+![image](assets/admin_panel_2.png)
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/3cb2740f-3be2-4c96-aba2-0e78ab295ee9)
+![image](assets/admin_panel_3.png)
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/862382be-3c18-4ee8-be95-f838461c41e2)
+![image](assets/admin_panel_4.png)
 
-![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/1dd1695d-8d55-421c-ad89-be750ede59c5)
+![image](assets/admin_panel_5.png)
 
 
 ## FUNCTIONALITIES
