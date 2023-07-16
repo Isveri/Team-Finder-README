@@ -19,7 +19,7 @@ The project is still under development, which means that it may have some shortc
 - SSE
 - WebSocket
 
-###Frontend
+### Frontend
 - Angular 13
 - Angular Material
 - WebSocket
@@ -30,7 +30,7 @@ The project is still under development, which means that it may have some shortc
 
 ## PRESENTATION
 
-### SCREENS FROM APP
+### SCREENS FROM THE APP
 
 ![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/72513ea7-7cb9-435c-b357-5600416b61fd)
 
@@ -46,7 +46,7 @@ The project is still under development, which means that it may have some shortc
 
 ![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/a6f7a63b-6e05-4040-80ea-ed2419312762)
 
-### ADMIN PANEL
+#### ADMIN PANEL
 
 ![image](https://github.com/Isveri/Team-Finder-README/assets/85582160/feeec16e-b13a-4f19-9ab8-15676f4a8225)
 
@@ -75,7 +75,7 @@ The functionalities offered by the applications are briefly presented below
 - Ban/report management
 - Group management (chat logs, active/deleted)
 
-### USER
+#### USER
 - Own groups management:
   - Group removal
   - Public/private settings
