@@ -60,6 +60,43 @@ The project is still under development, which means that it may have some shortc
 
 
 ## FUNCTIONALITIES
+The functionalities offered by the applications are briefly presented below
+### AUTH
+- Login
+- Register
+- Password change
+- Email change
+- Deletion of the account
+- Email Verification (register, email change, deletion of the account)
 
+### OTHER
+#### ADMIN
+- User verification (profile/chat logs)
+- Ban/report management
+- Group management (chat logs, active/deleted)
 
+### USER
+- Own groups management:
+  - Group removal
+  - Public/private settings
+  - Group leader change
+  - Users removal
+  - Data update
+- Group chat
+- Report system
+- Other users profile view
+- Profile management:
+  - Data update
+  - Profile picture change
+  - Main ingame roles selection
+  - Discord connection
+- Group search
+- Search results filter
+- Group creation
+- Friends management:
+  - Addition
+  - Private chats
+- Notification management:
+  - Friend requests acceptance/rejection
+  - Read notifications removal
 
